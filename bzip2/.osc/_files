@@ -1,4 +1,4 @@
-<directory name="bzip2" rev="4" srcmd5="7e5190ecdbcd6556197effa153ac6384" vrev="4">
-  <serviceinfo code="succeeded" xsrcmd5="2233b2a96dae3db413225e43590d7181" />
-  <entry md5="d1f852b9ecd27db814de8a7c7b8a57a1" mtime="1679621399" name="_service" size="342" />
+<directory name="bzip2" rev="5" srcmd5="80042dbc6d4722cea72aa447d683b4cd" vrev="5">
+  <serviceinfo code="succeeded" xsrcmd5="44c8ab5383a67118cb1ede64b50adbe3" />
+  <entry md5="8aa7f1457601af08436b08d511bae6c1" mtime="1679624490" name="_service" size="383" />
 </directory>
