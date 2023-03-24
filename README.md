@@ -16,6 +16,8 @@
 4. 使用 `git commit` 和 `git push` 提交变动，并对本仓库发起 PR
 5. 等待审核通过，PR 合并后会触发自动添加包，并进行构建
 
+![create_package](./create_package.svg)
+
 ## 删除软件包
 
 1. Fork 并 Clone 这个仓库到本地
@@ -27,7 +29,17 @@
 
 TODO
 
-## service参考
+## 注意事项
+
+- 仅支持 git 类型的源码，linglong.yaml 的 source 不要使用 local 和 archive 。
+- 暂不支持从源码拉取依赖，linglong.yaml 的 depends 不要使用 git 仓库。
+- patch 文件和 linglong.yaml 需要一起放在 git 仓库的顶层目录。
+
+## 技术参考
+
+以下是玲珑持续集成的技术参考
+
+### service参考
 
 可使用以下模板，仅修改url参数和revision参数，其他保持不变。
 
@@ -47,17 +59,28 @@ TODO
 </services>
 ```
 
-## obs 项目结构
+### obs 项目结构
 
-linglong 顶级项目，仅用于介绍和引导
-linglong:base 玲珑的 base 仓库
-linglong:repo 空项目，用于聚合子项目的仓库
-linglong:repo:lib 玲珑依赖打包
-linglong:repo:app 玲珑应用打包
-linglong:repo:runtime 玲珑运行时打包
+- linglong 顶级项目，仅用于介绍和引导
 
-## 注意事项
+- linglong:base 玲珑的 base 仓库
 
-- 仅支持 git 类型的源码，linglong.yaml 的 source 不要使用 local 和 archive 。
-- 暂不支持从源码拉取依赖，linglong.yaml 的 depends 不要使用 git 仓库。
-- patch 文件和 linglong.yaml 需要一起放在 git 仓库的顶层目录。
+- linglong:repo 空项目，用于聚合子项目的仓库
+
+- linglong:repo:lib 玲珑依赖打包
+
+- linglong:repo:app 玲珑应用打包
+
+- linglong:repo:runtime 玲珑运行时打包
+
+repo 和 子项目的仓库存在实际的循环依赖情况，目前来看 obs 是支持这种仓库循环依赖的。
+
+
+![repo](./repo.svg)
+
+### 打包和发布流程
+
+obs 目前不支持玲珑仓库，所以在 obs 上 linglong 包是通过 debian 仓库进行封装的
+
+
+![repo_publish](./repo_publish.svg)
