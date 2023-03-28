@@ -91,4 +91,30 @@
   <package name="xavs2" state=" " />
   <package name="xcb-util" state=" " />
   <package name="xz-utils" state=" " />
+  <package name="qt3d" state=" " />
+  <package name="qtbase" state=" " />
+  <package name="qtcharts" state=" " />
+  <package name="qtconnectivity" state=" " />
+  <package name="qtdeclarative" state=" " />
+  <package name="qtgamepad" state=" " />
+  <package name="qtgraphicaleffects" state=" " />
+  <package name="qtimageformats" state=" " />
+  <package name="qtlocation" state=" " />
+  <package name="qtmultimedia" state=" " />
+  <package name="qtnetworkauth" state=" " />
+  <package name="qtquickcontrols" state=" " />
+  <package name="qtquickcontrols2" state=" " />
+  <package name="qtscript" state=" " />
+  <package name="qtsensors" state=" " />
+  <package name="qtserialport" state=" " />
+  <package name="qtspeech" state=" " />
+  <package name="qtsvg" state=" " />
+  <package name="qttools" state=" " />
+  <package name="qtvirtualkeyboard" state=" " />
+  <package name="qtwayland" state=" " />
+  <package name="qtwebchannel" state=" " />
+  <package name="qtwebengine" state=" " />
+  <package name="qtwebsockets" state=" " />
+  <package name="qtx11extras" state=" " />
+  <package name="qtxmlpatterns" state=" " />
 </project>
