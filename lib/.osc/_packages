@@ -1,3 +1,4 @@
 <project name="linglong:repo:lib">
   <package name="bzip2" state=" " />
+  <package name="aom" state=" " />
 </project>
