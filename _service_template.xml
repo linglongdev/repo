@@ -1,0 +1,13 @@
+<services>
+  <service name="obs_scm">
+    <param name="url">https://github.com/linglongdev/$REPO.git</param>
+    <param name="revision">v1.0.0</param>
+    <param name="scm">git</param>
+    <param name="exclude">.git</param>
+    <param name="extract">*</param>
+  </service>
+  
+  <service name="linglong">
+    <param name="file">_service:obs_scm:linglong.yaml</param>
+  </service>
+</services>

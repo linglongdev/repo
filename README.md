@@ -6,17 +6,38 @@
 
 ## 玲珑包分类
 
-这个仓库的三个子目录分别对应玲珑包的三个类型：app、runtime、lib，在添加和删除软件包时，需要切换到子目录操作。
+玲珑包有三个类型：
+
+- app 一般是提供用户界面ui程序，
+- lib 是 app 构建或运行所需的依赖
+- runtime 可以理解为一系列的依赖集合，比如 org.deepin.Runtime 包含 qt、dtk 等依赖。
+
+**app 应用请添加到这个仓库的 app 目录，runtime 和 lib 请添加到这个仓库的 lib 目录**。
 
 ## 添加软件包
 
 1. Fork 并 Clone 这个仓库到本地
 2. 在本地仓库的包类型子目录（如 app）执行 `osc mkpac $包名` 创建包 (osc可使用apt安装)
-3. 在 `$包名` 目录创建一个 _service 文件（[文件参考](#service参考)）
+3. 在 `$包名` 目录创建一个 _service 文件（[文件参考](#service参考)和[service模板](./_service_template.xml)）
 4. 使用 `git commit` 和 `git push` 提交变动，并对本仓库发起 PR
 5. 等待审核通过，PR 合并后会触发自动添加包，并进行构建
 
 ![create_package](./create_package.svg)
+
+示例：
+
+```bash
+# 切换到 lib 目录
+cd lib
+# 创建 obs 包
+osc mkpac bzip2
+# 创建 _service 文件
+cat ../_service_template.xml | envsubst > bzip2/_service
+# 提交 git
+git add bzip2
+git commit -m "add bzip"
+git push
+```
 
 ## 删除软件包
 
@@ -67,14 +88,9 @@ TODO
 
 - linglong:repo 空项目，用于聚合子项目的仓库
 
-- linglong:repo:lib 玲珑依赖打包
+- linglong:repo:lib 玲珑依赖和运行时打包
 
 - linglong:repo:app 玲珑应用打包
-
-- linglong:repo:runtime 玲珑运行时打包
-
-repo 和 子项目的仓库存在实际的循环依赖情况，目前来看 obs 是支持这种仓库循环依赖的。
-
 
 ![repo](./repo.svg)
 
