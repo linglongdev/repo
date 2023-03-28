@@ -117,4 +117,18 @@
   <package name="qtwebsockets" state=" " />
   <package name="qtx11extras" state=" " />
   <package name="qtxmlpatterns" state=" " />
+  <package name="deepin-shortcut-viewer" state=" " />
+  <package name="double-conversion" state=" " />
+  <package name="dtkcommon" state=" " />
+  <package name="dtkcore" state=" " />
+  <package name="dtkdeclarative" state=" " />
+  <package name="dtkgui" state=" " />
+  <package name="dtkwidget" state=" " />
+  <package name="fcitx-qt5" state=" " />
+  <package name="googletest" state=" " />
+  <package name="gsettings-qt" state=" " />
+  <package name="lxqt-build-tools" state=" " />
+  <package name="qt5integration" state=" " />
+  <package name="qt5platform-plugins" state=" " />
+  <package name="qtxdg" state=" " />
 </project>

@@ -1,4 +1,4 @@
-<directory name="vulkan-loader" rev="1" srcmd5="ae8499233a5bd104681f8c4a6da5317a" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="3bc067726c6144f8c098d33ddeaef8b1" />
+<directory name="vulkan-loader" rev="2" srcmd5="b0cdb2384bba2a4b773ce4a168d79c73" vrev="2">
+  <serviceinfo code="succeeded" xsrcmd5="0c2565297f558e3925c93466df6e8891" />
   <entry md5="57829af66c748830a4d799905c53fa39" mtime="1679972087" name="_service" size="399" />
 </directory>

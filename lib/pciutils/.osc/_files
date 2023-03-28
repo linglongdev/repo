@@ -1,6 +1,4 @@
-<directory name="pciutils" rev="1" srcmd5="5d4495eb067286ae5658bebbb3f0ca3a" vrev="1">
-  <serviceinfo code="failed" xsrcmd5="0944fa4e6161ff56281a99f08e3790f2">
-    <error>service error: AttributeError: 'float' object has no attribute 'split'</error>
-  </serviceinfo>
+<directory name="pciutils" rev="3" srcmd5="2195d5704272ea150338cc682b7bef74" vrev="3">
+  <serviceinfo code="succeeded" xsrcmd5="2fae05f77faf1da202cbaafa492ab093" />
   <entry md5="5322390bb07fcae08962691d01cea521" mtime="1679971341" name="_service" size="394" />
 </directory>
