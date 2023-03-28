@@ -1,0 +1,6 @@
+<directory name="libmysofa" rev="1" srcmd5="53cbd42784151e6ed70592fbf4491945" vrev="1">
+  <serviceinfo code="failed" xsrcmd5="0e8b41f78585c3d55a4d47b4ea2fdb8e">
+    <error>service error: AttributeError: 'float' object has no attribute 'split'</error>
+  </serviceinfo>
+  <entry md5="4a3d7e8094a7b3971d265867183c3d1e" mtime="1679971036" name="_service" size="395" />
+</directory>
