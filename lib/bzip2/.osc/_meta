@@ -1,4 +1,4 @@
-<package name="bzip2" project="linglong:repo">
+<package name="bzip2" project="linglong:repo:lib">
   <title/>
   <description/>
 </package>

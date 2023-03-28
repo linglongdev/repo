@@ -1,3 +1,3 @@
-<project name="linglong:repo">
+<project name="linglong:repo:lib">
   <package name="bzip2" state=" " />
 </project>
