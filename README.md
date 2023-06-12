@@ -64,8 +64,28 @@ git push
 
 ## 客户端使用仓库
 
-TODO
+TODO 在线仓库还没准备好，可以使用下面的脚本实现将deb仓库导入到本地
 
+```bash
+#!/bin/bash
+libs_url=https://ci.deepin.com/repo/obs/linglong:/repo:/lib/linglong_base/amd64/
+pkgs=`curl $libs_url | grep -o '"linglong[^\"]*"'`
+
+for pkg in $pkgs; do
+    pkg=`eval echo $pkg`
+    tmp_dir=`mktemp -d`
+    cd $tmp_dir
+    echo $tmp_dir
+    wget $libs_url$pkg
+    dpkg-deb -R $pkg 1
+    export LINGLONG_REPO_DIR=$HOME/.cache/linglong-builder/repo
+    export LINGLONG_DEB_DIR=`pwd`/1/var/cache/linglong/deb
+    $tmp_dir/1/DEBIAN/postinst
+done
+```
+也可以从仓库下载单个deb文件,使用 dpkg-deb -R 进行解压，然后设置 LINGLONG_REPO_DIR 和 LINGLONG_DEB_DIR 变量，最后执行 postinst 脚本即可。
+LINGLONG_REPO_DIR：玲珑仓库的目录，系统的应用仓库是 /persistent/linglong/repo/ ，使用 ll-build build 构建使用的是 ~/.cache/linglong-builder/repo/
+LINGLONG_DEB_DIR：默认是 /var/cache/linglong/deb,因为是用 dpkg-deb 解压的deb包,应该在前面加上解压的目录地址。
 ## 技术参考
 
 以下是玲珑持续集成的技术参考
