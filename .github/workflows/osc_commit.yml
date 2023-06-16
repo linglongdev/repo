@@ -28,7 +28,7 @@ jobs:
         run: cd lib && bash "../.github/workflows/commit.bash"
 
       - name: update app
-        run: cd lib && bash "../.github/workflows/commit.bash"
+        run: cd app && bash "../.github/workflows/commit.bash"
 
       - name: osc up
         run: |
