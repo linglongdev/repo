@@ -130,5 +130,7 @@
   <package name="lxqt-build-tools" state=" " />
   <package name="qt5integration" state=" " />
   <package name="qt5platform-plugins" state=" " />
-  <package name="qtxdg" state=" " />
+  <package name="cmake" state=" " />
+  <package name="libqtxdg" state=" " />
+  <package name="org.deepin.Runtime" state=" " />
 </project>
