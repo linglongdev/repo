@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  run:
     runs-on: ubuntu-latest
     steps:
       - name: init config
@@ -14,6 +14,7 @@ jobs:
         run: |
           mkdir -p ~/.config/osc/
           echo "$OSCRC" > ~/.config/osc/oscrc
+          apt-get install -y osc
       - uses: actions/checkout@v3
       - name: update lib
         run: |
