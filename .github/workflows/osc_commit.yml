@@ -1,7 +1,7 @@
 name: osc commit
 on:
   push:
-    branches: [ "master" ]
+    branches: ["master"]
   workflow_dispatch:
 
 jobs:
@@ -10,15 +10,18 @@ jobs:
     steps:
       - name: init config
         env:
-            OSCRC: ${{secrets.OSCRC}}
+          OSCRC: ${{secrets.OSCRC}}
         run: |
+          sudo apt-get install -y osc
           mkdir -p ~/.config/osc/
           echo "$OSCRC" > ~/.config/osc/oscrc
-          sudo apt-get install -y osc
+
       - uses: actions/checkout@v3
       - name: update lib
-        run: |
-          cd lib
-          osc up
-          osc add */*
-          osc commit -m "auto commit"
+        run: cd lib && bash "../.github/workflows/commit.bash"
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: auot osc commit"
+          commit_user_name: myml
+          commit_user_email: wurongjie@deepin.org

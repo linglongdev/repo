@@ -133,4 +133,5 @@
   <package name="cmake" state=" " />
   <package name="libqtxdg" state=" " />
   <package name="org.deepin.Runtime" state=" " />
+  <package name="extra-cmake-modules" state=" " />
 </project>
