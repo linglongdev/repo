@@ -134,5 +134,5 @@
   <package name="libqtxdg" state=" " />
   <package name="org.deepin.Runtime" state=" " />
   <package name="extra-cmake-modules" state=" " />
-  <package name="plasma-wayland-protocols-a" state=" " />
+  <package name="plasma-wayland-protocols" state=" " />
 </project>

@@ -1,3 +1,4 @@
-<directory name="cmake" rev="1" vrev="1" srcmd5="6fdd46dc3820c090d23615c37015bfe0">
-  <entry name="service.xml" md5="f7ca1a81b573de3b0d00681ba6c2d359" size="391" mtime="1686882842" />
+<directory name="cmake" rev="4" vrev="4" srcmd5="1e25778cc01dbde9f662b6f974a38967">
+  <serviceinfo code="succeeded" xsrcmd5="4ecb66196fcdabd8119f6350843fc9ae" />
+  <entry name="_service" md5="f7ca1a81b573de3b0d00681ba6c2d359" size="391" mtime="1686885176" />
 </directory>
