@@ -23,6 +23,3 @@ for pkg in `cat .osc/_packages | grep -oP 'package name="\K[^"]*'`; do
     osc rdelete linglong:repo:`basename $PWD` $pkg -m "auto commit"
   fi
 done
-
-# 更新数据
-osc up

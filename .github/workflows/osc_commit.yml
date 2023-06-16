@@ -4,9 +4,15 @@ on:
     branches: ["master"]
   workflow_dispatch:
 
+concurrency: staging_environment
+
 jobs:
   run:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
     steps:
       - name: init config
         env:
@@ -17,8 +23,17 @@ jobs:
           echo "$OSCRC" > ~/.config/osc/oscrc
 
       - uses: actions/checkout@v3
+
       - name: update lib
         run: cd lib && bash "../.github/workflows/commit.bash"
+
+      - name: update app
+        run: cd lib && bash "../.github/workflows/commit.bash"
+
+      - name: osc up
+        run: |
+          sh -c 'cd lib && osc up'
+          sh -c 'cd app && osc up'
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
