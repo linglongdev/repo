@@ -1,6 +1,4 @@
-<directory name="double-conversion" rev="1" srcmd5="8d242c3ab6d6e62c7315f2bf3d93cad2" vrev="1">
-  <serviceinfo code="failed" xsrcmd5="fa8cd511c0ea852185bedb8119cf1e37">
-    <error>service error: '</error>
-  </serviceinfo>
-  <entry md5="3cbdbdf92d421b33042a10c3c02ffa61" mtime="1679986468" name="_service" size="403" />
+<directory name="double-conversion" rev="6" vrev="6" srcmd5="b7cde657f4177b4e35a1320aeca6bc8b">
+  <serviceinfo code="succeeded" xsrcmd5="e53a3c8ee86cfe324fa0f0b6b5b3ae42" />
+  <entry name="_service" md5="18cfe60ae2e5c5d65c184c99d1a0c83e" size="403" mtime="1680015088" />
 </directory>

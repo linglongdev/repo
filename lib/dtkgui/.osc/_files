@@ -1,6 +1,4 @@
-<directory name="dtkgui" rev="1" srcmd5="4976bae5e9e1bf289c05a5cdf0b774a9" vrev="1">
-  <serviceinfo code="failed" xsrcmd5="0f5cdfeac0ecb77f810375095a35b0b9">
-    <error>service error: '</error>
-  </serviceinfo>
-  <entry md5="5943266f7bad9dfff673dc322f385042" mtime="1679986502" name="_service" size="392" />
+<directory name="dtkgui" rev="8" vrev="8" srcmd5="87bb0a68cf13c12369f1420d96bf1f4c">
+  <serviceinfo code="succeeded" xsrcmd5="048f1bc0c594331ff131014b8b4ba54c" />
+  <entry name="_service" md5="e325dfbe02d7bd10b261ed8f63351374" size="392" mtime="1680015122" />
 </directory>

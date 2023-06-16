@@ -1,6 +1,4 @@
-<directory name="dtkwidget" rev="1" srcmd5="1ac2e13f3f9911b2ee8ed26a901e8f72" vrev="1">
-  <serviceinfo code="failed" xsrcmd5="a7ca9e7a6459879d4a91f680fbb9c237">
-    <error>service error: '</error>
-  </serviceinfo>
-  <entry md5="45504de9a67cbdcddec6b09856de579a" mtime="1679986513" name="_service" size="395" />
+<directory name="dtkwidget" rev="7" vrev="7" srcmd5="30a5da85ae2c603656ba0bd8e6005667">
+  <serviceinfo code="succeeded" xsrcmd5="675a9b083bdcc0a5052e6879fef6c588" />
+  <entry name="_service" md5="bd555df3ae5f0ac0544996d931204b44" size="395" mtime="1680015135" />
 </directory>

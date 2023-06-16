@@ -1,4 +1,4 @@
-<directory name="davs2" rev="1" srcmd5="78ab555649eaafa0e71d36b8b279abda" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="df6cc0c1c6ac0cd43117a2261b4458ea" />
-  <entry md5="57aa6e7611c75df8f0aaf5fd073c987f" mtime="1679970406" name="_service" size="391" />
+<directory name="davs2" rev="5" vrev="5" srcmd5="3856f5dce37804a3365a5c099c895847">
+  <serviceinfo code="succeeded" xsrcmd5="2321f3d696c75fa857edc1142fa5747f" />
+  <entry name="_service" md5="57aa6e7611c75df8f0aaf5fd073c987f" size="391" mtime="1679970406" />
 </directory>

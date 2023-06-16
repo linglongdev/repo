@@ -1,4 +1,4 @@
-<directory name="qtvirtualkeyboard" rev="2" srcmd5="da06f7efeefc4e55ea96e1027eee02cc" vrev="2">
-  <serviceinfo code="succeeded" xsrcmd5="9b7970e154c270086d2b32d6a299a110" />
-  <entry md5="a8ff6d71322fa2b6a3b4acb84f8edad6" mtime="1679983612" name="_service" size="403" />
+<directory name="qtvirtualkeyboard" rev="4" vrev="4" srcmd5="841a2e1a6022e44ecc06d4d0bb06ac66">
+  <serviceinfo code="succeeded" xsrcmd5="6f40f16844cf813c882b15aba9edd076" />
+  <entry name="_service" md5="a8ff6d71322fa2b6a3b4acb84f8edad6" size="403" mtime="1679983612" />
 </directory>

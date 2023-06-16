@@ -1,4 +1,4 @@
-<directory name="procps" rev="1" srcmd5="64de5574d64c03cb95dcfe10fbd7b2fc" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="c523ff51dc61d55c455933d53f17df56" />
-  <entry md5="412ae02c92020fd9ae9dfa086de1cf19" mtime="1679971383" name="_service" size="392" />
+<directory name="procps" rev="4" vrev="4" srcmd5="cc44d5df76906e23beb9d11bbe1ccfce">
+  <serviceinfo code="succeeded" xsrcmd5="5160e767ee42d1a7d2e2cbab621d199b" />
+  <entry name="_service" md5="412ae02c92020fd9ae9dfa086de1cf19" size="392" mtime="1679971383" />
 </directory>

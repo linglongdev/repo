@@ -1,4 +1,4 @@
-<directory name="qtwebengine" rev="2" srcmd5="41d911ca149795520c5d3f5c057bce7f" vrev="2">
-  <serviceinfo code="succeeded" xsrcmd5="c9f3dbd1c1a841351d519887dbf66217" />
-  <entry md5="3605e64fce909a405e4262f596a4a126" mtime="1679983646" name="_service" size="397" />
+<directory name="qtwebengine" rev="4" vrev="4" srcmd5="71bbb4e24a8e46e8eebab8755afb7c94">
+  <serviceinfo code="succeeded" xsrcmd5="0537183484dcecafac44c7c6929ca800" />
+  <entry name="_service" md5="3605e64fce909a405e4262f596a4a126" size="397" mtime="1679983646" />
 </directory>

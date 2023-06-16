@@ -1,4 +1,4 @@
-<directory name="qtlocation" rev="2" srcmd5="c05e65e6b57afb0cfd8e32e4fefbf63f" vrev="2">
-  <serviceinfo code="succeeded" xsrcmd5="f4d66db6e3d2c716bddc19545fed9ea9" />
-  <entry md5="4bc2ffa8f7d484db1e10bc3635260fcb" mtime="1679983465" name="_service" size="396" />
+<directory name="qtlocation" rev="4" vrev="4" srcmd5="dc2a8ebc617e3f5ebfb3206f3af90cad">
+  <serviceinfo code="succeeded" xsrcmd5="205a2897683a0b8830b8710d104dbbaa" />
+  <entry name="_service" md5="4bc2ffa8f7d484db1e10bc3635260fcb" size="396" mtime="1679983465" />
 </directory>

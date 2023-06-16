@@ -1,6 +1,4 @@
-<directory name="qt5integration" rev="1" srcmd5="57df166119b92b2d97fbc5c7870d8816" vrev="1">
-  <serviceinfo code="failed" xsrcmd5="309c458f467087c24e5c31573b1dc70d">
-    <error>service error: '</error>
-  </serviceinfo>
-  <entry md5="761763a080b8586aa60f3a7cf510e4fa" mtime="1679986574" name="_service" size="400" />
+<directory name="qt5integration" rev="6" vrev="6" srcmd5="4bbed86b14e5650a9ca3a5ec4162c3cf">
+  <serviceinfo code="succeeded" xsrcmd5="118d152b408d6dcec541556d82c81cb3" />
+  <entry name="_service" md5="e985c36f65f992149dc1ddc9bb516d6d" size="400" mtime="1680015201" />
 </directory>

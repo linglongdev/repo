@@ -1,4 +1,4 @@
-<directory name="qtmpris" rev="1" srcmd5="0b6c0ddce1e07f2d55a8126300b68616" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="e68597cd5eca43ab31f8f79734d3fac9" />
-  <entry md5="e8a32f19ba0e83a2c300c0de4f0ebb3d" mtime="1679971408" name="_service" size="393" />
+<directory name="qtmpris" rev="3" vrev="3" srcmd5="55fb1fd88b86bf7a681e996a335115f9">
+  <serviceinfo code="succeeded" xsrcmd5="9c940814938d01cb483a5bb4a20d5fa4" />
+  <entry name="_service" md5="e8a32f19ba0e83a2c300c0de4f0ebb3d" size="393" mtime="1679971408" />
 </directory>

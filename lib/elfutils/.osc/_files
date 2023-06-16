@@ -1,4 +1,4 @@
-<directory name="elfutils" rev="2" srcmd5="9992e665ce751a7d911c08a7c84db136" vrev="2">
-  <serviceinfo code="succeeded" xsrcmd5="1bafb9ba1ea1c2097797c857722e1cf0" />
-  <entry md5="b35295d40aaae64e63e3474b36cc2ee7" mtime="1679970470" name="_service" size="394" />
+<directory name="elfutils" rev="7" vrev="7" srcmd5="87f6dc038790e17ce9e7b52ac3f78f0b">
+  <serviceinfo code="succeeded" xsrcmd5="beef2558223c71164e132f901a02bf7c" />
+  <entry name="_service" md5="b35295d40aaae64e63e3474b36cc2ee7" size="394" mtime="1679970470" />
 </directory>

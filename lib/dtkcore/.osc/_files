@@ -1,4 +1,4 @@
-<directory name="dtkcore" rev="1" srcmd5="b060ab4f3e564b75caf6030b88989855" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="ed3cd2acbed3b24807990d62ffca6905" />
-  <entry md5="79837fa13345f110e3739bd56b205571" mtime="1679988793" name="_service" size="393" />
+<directory name="dtkcore" rev="8" vrev="8" srcmd5="e3759e0ef59d619da2f7c4aa13bf413e">
+  <serviceinfo code="succeeded" xsrcmd5="4e555394c42c98da40f3a20c9b974dd7" />
+  <entry name="_service" md5="79837fa13345f110e3739bd56b205571" size="393" mtime="1679988793" />
 </directory>

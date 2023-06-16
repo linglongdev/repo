@@ -1,4 +1,4 @@
-<directory name="libxrandr" rev="1" srcmd5="2cd9d9e9aef385fa83557d39b27c35b1" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="61498304d2599d0188eff7c917d9ca36" />
-  <entry md5="0eca446ffafb5ab916171f3510624de4" mtime="1679971170" name="_service" size="395" />
+<directory name="libxrandr" rev="4" vrev="4" srcmd5="f646acf873ec2ac21e7df8ba246751b7">
+  <serviceinfo code="succeeded" xsrcmd5="eb05839a5ac185980306262b00287820" />
+  <entry name="_service" md5="0eca446ffafb5ab916171f3510624de4" size="395" mtime="1679971170" />
 </directory>

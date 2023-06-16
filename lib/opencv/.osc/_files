@@ -1,6 +1,6 @@
-<directory name="opencv" rev="1" srcmd5="d0f9abf436853ef87046ae2acf38ef90" vrev="1">
-  <serviceinfo code="failed" xsrcmd5="eef22486b469b0725144c0f6f1143deb">
+<directory name="opencv" rev="3" vrev="3" srcmd5="7cc9e19ccb5d856fd24f20203c24e83d">
+  <serviceinfo code="failed" xsrcmd5="01b4542d939314ce8f3f81fc486d79f3">
     <error>service error: '</error>
   </serviceinfo>
-  <entry md5="9cbd908f37b30503eb1f8408fc373591" mtime="1679971298" name="_service" size="392" />
+  <entry name="_service" md5="9cbd908f37b30503eb1f8408fc373591" size="392" mtime="1679971298" />
 </directory>

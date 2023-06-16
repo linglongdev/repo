@@ -1,4 +1,4 @@
-<directory name="qtquickcontrols2" rev="2" srcmd5="828261a49c4e69ed0bf8fced62c3da6e" vrev="2">
-  <serviceinfo code="succeeded" xsrcmd5="f9206734540cb9d99926a2ad420d62f7" />
-  <entry md5="50b487b5d2bc07ca9caf2a9a3e75240e" mtime="1679983518" name="_service" size="402" />
+<directory name="qtquickcontrols2" rev="4" vrev="4" srcmd5="50aabe3af15e3fc78197b169b682a423">
+  <serviceinfo code="succeeded" xsrcmd5="ff403deb55f1303db9eb06b5c063b4cc" />
+  <entry name="_service" md5="50b487b5d2bc07ca9caf2a9a3e75240e" size="402" mtime="1679983518" />
 </directory>

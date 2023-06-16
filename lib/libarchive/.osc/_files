@@ -1,4 +1,4 @@
-<directory name="libarchive" rev="1" srcmd5="fd08768095a29d947968e1cfe4cfedff" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="744082b4b63a745b7104eaa580f5e3ab" />
-  <entry md5="a219c1e0cbf732350e1c5fcc97099e5d" mtime="1679970899" name="_service" size="396" />
+<directory name="libarchive" rev="6" vrev="6" srcmd5="c920f9b611407b78178c3ed33debb38f">
+  <serviceinfo code="succeeded" xsrcmd5="acac0b958106a63ad0b44a909917d41f" />
+  <entry name="_service" md5="a219c1e0cbf732350e1c5fcc97099e5d" size="396" mtime="1679970899" />
 </directory>

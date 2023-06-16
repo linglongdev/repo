@@ -1,4 +1,4 @@
-<directory name="qtgraphicaleffects" rev="2" srcmd5="74409894a4704de91262e17bccb20b36" vrev="2">
-  <serviceinfo code="succeeded" xsrcmd5="7230c4aef51af806ffbb65237328af48" />
-  <entry md5="17ce617e6250881f159670a554ae1f33" mtime="1679983436" name="_service" size="404" />
+<directory name="qtgraphicaleffects" rev="4" vrev="4" srcmd5="b0d375741ed457797ea9390c57bdaf49">
+  <serviceinfo code="succeeded" xsrcmd5="21232426ffedb8951a82fca51ce3d41c" />
+  <entry name="_service" md5="17ce617e6250881f159670a554ae1f33" size="404" mtime="1679983436" />
 </directory>

@@ -1,4 +1,4 @@
-<directory name="qtwayland" rev="2" srcmd5="d11dc95c027a5e0577de24e7a9d4090d" vrev="2">
-  <serviceinfo code="succeeded" xsrcmd5="0e96fc2c92af7697a06cc5dacb13c6e4" />
-  <entry md5="e93ca8467c2f98d7d3641e3d35ec1c7d" mtime="1679983624" name="_service" size="395" />
+<directory name="qtwayland" rev="5" vrev="5" srcmd5="4b82b58e6e51a1d8169ae2081beb81c6">
+  <serviceinfo code="succeeded" xsrcmd5="23bd243d02cf6cfa826dd9a8c47de507" />
+  <entry name="_service" md5="e93ca8467c2f98d7d3641e3d35ec1c7d" size="395" mtime="1679983624" />
 </directory>

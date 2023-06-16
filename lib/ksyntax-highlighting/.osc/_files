@@ -1,4 +1,4 @@
-<directory name="ksyntax-highlighting" rev="1" srcmd5="b9dbd66b52a520293e4e351f9245f2e7" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="18b154dbac3110b70395331ad3b71035" />
-  <entry md5="d3ec2aae09e2c75169034cd1d2986e1f" mtime="1679970833" name="_service" size="406" />
+<directory name="ksyntax-highlighting" rev="3" vrev="3" srcmd5="fda8d6616967691bd7915983990a486c">
+  <serviceinfo code="succeeded" xsrcmd5="28c255aa313d382d9dff838017d3e94f" />
+  <entry name="_service" md5="d3ec2aae09e2c75169034cd1d2986e1f" size="406" mtime="1679970833" />
 </directory>

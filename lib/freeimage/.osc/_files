@@ -1,4 +1,4 @@
-<directory name="freeimage" rev="1" srcmd5="2c7b8c19c6090c355c5e52e1c2086f3a" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="a288bc67057e5b36a4ff1fc3720eb9a4" />
-  <entry md5="160a7c6d8cedd9235393358017c4265b" mtime="1679970519" name="_service" size="395" />
+<directory name="freeimage" rev="5" vrev="5" srcmd5="01735cce9973c1d340a6027d1406424a">
+  <serviceinfo code="succeeded" xsrcmd5="84b10a9a947bd10c3fb0d24e0cc7a7b3" />
+  <entry name="_service" md5="160a7c6d8cedd9235393358017c4265b" size="395" mtime="1679970519" />
 </directory>

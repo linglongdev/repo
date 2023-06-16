@@ -1,6 +1,4 @@
-<directory name="googletest" rev="1" srcmd5="2f8c246f54a0c4047ba14ec87203c780" vrev="1">
-  <serviceinfo code="failed" xsrcmd5="bf620906d5772670c28b1c0ecb3981de">
-    <error>service error: '</error>
-  </serviceinfo>
-  <entry md5="1bb426d82e9cdc28d92cf7a21a24bd51" mtime="1679986539" name="_service" size="396" />
+<directory name="googletest" rev="6" vrev="6" srcmd5="5daccf2d7283369368b398d1e64de99c">
+  <serviceinfo code="succeeded" xsrcmd5="fecb7f7fb5eb378f2b47547a35ae879a" />
+  <entry name="_service" md5="664ecc801ef734c4b1b86b30715a1ce1" size="396" mtime="1680015176" />
 </directory>

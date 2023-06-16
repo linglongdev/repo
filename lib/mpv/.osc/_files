@@ -1,4 +1,4 @@
-<directory name="mpv" rev="1" srcmd5="d405e8d10f0cf8e5e18281018a03f138" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="fc152d8287d12e82c1d1f05625d2cb6c" />
-  <entry md5="d40a34b9d3bc408e101763f0e1a37811" mtime="1679971250" name="_service" size="389" />
+<directory name="mpv" rev="6" vrev="6" srcmd5="6844afa4c0b77a3bdabd547e0a7a24be">
+  <serviceinfo code="succeeded" xsrcmd5="0e4b65d9a0c56dc810e12eae2fdf9383" />
+  <entry name="_service" md5="d40a34b9d3bc408e101763f0e1a37811" size="389" mtime="1679971250" />
 </directory>

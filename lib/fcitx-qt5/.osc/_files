@@ -1,6 +1,4 @@
-<directory name="fcitx-qt5" rev="1" srcmd5="96485e54ae5bfc6c121b73cbdcf8ea80" vrev="1">
-  <serviceinfo code="failed" xsrcmd5="2d325277d70ae1722e212335b261aa42">
-    <error>service error: '</error>
-  </serviceinfo>
-  <entry md5="ffafac94219d76be8a820c8e540679c2" mtime="1679986527" name="_service" size="395" />
+<directory name="fcitx-qt5" rev="5" vrev="5" srcmd5="d76d3f60b1555af4c8e4d005b79eb333">
+  <serviceinfo code="succeeded" xsrcmd5="3b84e67ca6f96eeccaad8b142a650825" />
+  <entry name="_service" md5="262df877f8df6c5a921f2effc47372f3" size="395" mtime="1680015163" />
 </directory>

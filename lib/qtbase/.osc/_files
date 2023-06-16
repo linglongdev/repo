@@ -1,4 +1,4 @@
-<directory name="qtbase" rev="3" srcmd5="a9a5b514f1e96c04a75bfbc707bd38f0" vrev="3">
-  <serviceinfo code="succeeded" xsrcmd5="478b05ef605367ef2ce704fafced9a4e" />
-  <entry md5="aae38b8d7b09971cb7f37339090f8daa" mtime="1679983321" name="_service" size="392" />
+<directory name="qtbase" rev="7" vrev="7" srcmd5="06c123dee5dfdde1eb00af4493862cef">
+  <serviceinfo code="succeeded" xsrcmd5="b75046d57d5660ec54f633b38ded48ff" />
+  <entry name="_service" md5="aae38b8d7b09971cb7f37339090f8daa" size="392" mtime="1679983321" />
 </directory>

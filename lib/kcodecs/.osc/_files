@@ -1,4 +1,4 @@
-<directory name="kcodecs" rev="1" srcmd5="0d3139abaf439b7e606004f09ad9e2c4" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="a6a10ea0b4db4125f1567a1156da06fe" />
-  <entry md5="c70780cbf67dcd3292e3452934d3e7e7" mtime="1679970718" name="_service" size="393" />
+<directory name="kcodecs" rev="3" vrev="3" srcmd5="c40a94928650d482d4ee6f0090fc91a1">
+  <serviceinfo code="succeeded" xsrcmd5="25875229e41e6b08c2b430d4187b82b9" />
+  <entry name="_service" md5="c70780cbf67dcd3292e3452934d3e7e7" size="393" mtime="1679970718" />
 </directory>

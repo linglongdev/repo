@@ -1,4 +1,4 @@
-<directory name="qtspeech" rev="2" srcmd5="782595ee94f214e21a14270c7e5e2d65" vrev="2">
-  <serviceinfo code="succeeded" xsrcmd5="32a6e8922790635cddd8d3da35970c59" />
-  <entry md5="09abd2489ce64c8af5de63e0ef2ac7ec" mtime="1679983571" name="_service" size="394" />
+<directory name="qtspeech" rev="4" vrev="4" srcmd5="aa559f0d2bd3a7307eed2451938d9590">
+  <serviceinfo code="succeeded" xsrcmd5="d55d73b8e47058b87c6153e890c1926a" />
+  <entry name="_service" md5="09abd2489ce64c8af5de63e0ef2ac7ec" size="394" mtime="1679983571" />
 </directory>

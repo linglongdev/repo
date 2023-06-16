@@ -1,4 +1,4 @@
-<directory name="lapack" rev="1" srcmd5="2cb3d7178f2076e48ccbec721f7eb6de" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="a9b4512c2dd393aa144149b4af01b44d" />
-  <entry md5="efe76f46d3b29f4b0682c33427cb86bc" mtime="1679970872" name="_service" size="392" />
+<directory name="lapack" rev="6" vrev="6" srcmd5="3eb9396fcd449d7bcd2e2e72bde9faf0">
+  <serviceinfo code="succeeded" xsrcmd5="5c02c6ef1e3ea70087023310196f9cce" />
+  <entry name="_service" md5="efe76f46d3b29f4b0682c33427cb86bc" size="392" mtime="1679970872" />
 </directory>

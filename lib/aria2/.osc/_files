@@ -1,4 +1,4 @@
-<directory name="aria2" rev="1" srcmd5="e9db88967c3f64ea5cf7bbb0d6562d0d" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="67b762347da04b310c06c0acddfc6fd3" />
-  <entry md5="78050e33020a5cf530190dd024bae8b7" mtime="1679970315" name="_service" size="391" />
+<directory name="aria2" rev="6" vrev="6" srcmd5="4689bcde66fcb93888dcef2b6b9a17b5">
+  <serviceinfo code="succeeded" xsrcmd5="895b3d6739057f2f01476ab554af19f9" />
+  <entry name="_service" md5="78050e33020a5cf530190dd024bae8b7" size="391" mtime="1679970315" />
 </directory>

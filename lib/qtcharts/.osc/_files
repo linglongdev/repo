@@ -1,4 +1,4 @@
-<directory name="qtcharts" rev="2" srcmd5="1da0eac2b12914b1befe4eb2ab6e13ce" vrev="2">
-  <serviceinfo code="succeeded" xsrcmd5="98bcd3366cd3f7fdf6c0256eda451bcf" />
-  <entry md5="7b6e42043bf3e7aa432895023082def6" mtime="1679983368" name="_service" size="394" />
+<directory name="qtcharts" rev="4" vrev="4" srcmd5="8707c01e3734ff4227a1743272635513">
+  <serviceinfo code="succeeded" xsrcmd5="9db8fea79705204f6504ea5bff24c939" />
+  <entry name="_service" md5="7b6e42043bf3e7aa432895023082def6" size="394" mtime="1679983368" />
 </directory>

@@ -1,4 +1,4 @@
-<directory name="xavs2" rev="1" srcmd5="2575fe0652d3e7b6acdbba5673d37608" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="929142b1bcde71885f9eb6a1747a5b7a" />
-  <entry md5="6d2385713674b4a867c9a470ca04c3a5" mtime="1679972127" name="_service" size="391" />
+<directory name="xavs2" rev="5" vrev="5" srcmd5="39e46a14a706bc66f418fb62195a9731">
+  <serviceinfo code="succeeded" xsrcmd5="660a287db2ed67dc53060b6fbedbc9da" />
+  <entry name="_service" md5="6d2385713674b4a867c9a470ca04c3a5" size="391" mtime="1679972127" />
 </directory>

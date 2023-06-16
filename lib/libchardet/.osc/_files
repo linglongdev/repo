@@ -1,4 +1,4 @@
-<directory name="libchardet" rev="1" srcmd5="2c945a86f8b7a4f4affd8c3a9e8ef42f" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="8798ae25f03e1bce60d2a04d7d561cc1" />
-  <entry md5="58647f73a4a04c5da5cadcb4b003184c" mtime="1679970915" name="_service" size="396" />
+<directory name="libchardet" rev="6" vrev="6" srcmd5="37e4094d7d6926ee309cee0e98c4b28a">
+  <serviceinfo code="succeeded" xsrcmd5="6452b480e0e5e1cf57db4ea81d29293f" />
+  <entry name="_service" md5="58647f73a4a04c5da5cadcb4b003184c" size="396" mtime="1679970915" />
 </directory>

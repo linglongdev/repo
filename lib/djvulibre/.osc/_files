@@ -1,4 +1,4 @@
-<directory name="djvulibre" rev="1" srcmd5="369c90b4d54cea3c160f910e91e770cf" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="81fd8fbb93511758f2a43b4c83e4802d" />
-  <entry md5="46457a47e2af93a48701e1f8104dc7fc" mtime="1679970457" name="_service" size="395" />
+<directory name="djvulibre" rev="7" vrev="7" srcmd5="87a870e83b8b674afa752dd9ef4bd7cc">
+  <serviceinfo code="succeeded" xsrcmd5="ae5d0299e47d68d9b2b6383d1dd90acb" />
+  <entry name="_service" md5="46457a47e2af93a48701e1f8104dc7fc" size="395" mtime="1679970457" />
 </directory>

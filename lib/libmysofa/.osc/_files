@@ -1,4 +1,4 @@
-<directory name="libmysofa" rev="2" srcmd5="defbe2238dee736b6c5cd332fccc60c4" vrev="2">
-  <serviceinfo code="succeeded" xsrcmd5="6b9279aaeb7e10bb8005e9cb4f40aaa3" />
-  <entry md5="4a3d7e8094a7b3971d265867183c3d1e" mtime="1679971036" name="_service" size="395" />
+<directory name="libmysofa" rev="4" vrev="4" srcmd5="ef6e57715d584230f2581a20a0bc9633">
+  <serviceinfo code="succeeded" xsrcmd5="82d8ef04e61b494bd21e4e1eb9677d2d" />
+  <entry name="_service" md5="4a3d7e8094a7b3971d265867183c3d1e" size="395" mtime="1679971036" />
 </directory>

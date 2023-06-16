@@ -1,4 +1,4 @@
-<directory name="qtsvg" rev="2" srcmd5="eb2ab65b7d148f4c6eb67ffe006a01ea" vrev="2">
-  <serviceinfo code="succeeded" xsrcmd5="4351756f10b49a547603e1706ff14ef1" />
-  <entry md5="050247b647ddae5822217d3a0092437b" mtime="1679983583" name="_service" size="391" />
+<directory name="qtsvg" rev="4" vrev="4" srcmd5="be4246b23c109d67c69239487a2ce808">
+  <serviceinfo code="succeeded" xsrcmd5="f2b2362b8686766924067c64a759a9b3" />
+  <entry name="_service" md5="050247b647ddae5822217d3a0092437b" size="391" mtime="1679983583" />
 </directory>

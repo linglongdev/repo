@@ -1,4 +1,4 @@
-<directory name="kwindowsystem" rev="1" srcmd5="635246aef6aa942d0055c0ffa1eee50d" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="3368e19d655a0ccfc12aac69e08f0966" />
-  <entry md5="c8682d5eb7e088cfdec52aea24e002e8" mtime="1679970859" name="_service" size="399" />
+<directory name="kwindowsystem" rev="4" vrev="4" srcmd5="c8ec0fb6799954b434918cea711249b2">
+  <serviceinfo code="succeeded" xsrcmd5="11f3f1ec557a9d9960decc58dbe33c1b" />
+  <entry name="_service" md5="c8682d5eb7e088cfdec52aea24e002e8" size="399" mtime="1679970859" />
 </directory>

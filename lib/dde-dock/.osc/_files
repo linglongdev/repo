@@ -1,6 +1,4 @@
-<directory name="dde-dock" rev="1" srcmd5="711f84243f9672a28012995588c5f0a6" vrev="1">
-  <serviceinfo code="failed" xsrcmd5="817eda011630abbd51f5d771d143a078">
-    <error>service error: '</error>
-  </serviceinfo>
-  <entry md5="e771e12d1691643a6f5df90587acec37" mtime="1679970428" name="_service" size="394" />
+<directory name="dde-dock" rev="5" vrev="5" srcmd5="a86d32098dafec0bfda9238d2140966e">
+  <serviceinfo code="succeeded" xsrcmd5="48a827e376f2f2d50447701763826bce" />
+  <entry name="_service" md5="e771e12d1691643a6f5df90587acec37" size="394" mtime="1679970428" />
 </directory>

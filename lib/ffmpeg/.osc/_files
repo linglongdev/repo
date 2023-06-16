@@ -1,4 +1,4 @@
-<directory name="ffmpeg" rev="1" srcmd5="ce32f3850744da0a0a4c6561904ee98e" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="688151e8997be0111d0f4996808e4e50" />
-  <entry md5="cea222af73e02645a4432f9534fa1063" mtime="1679970486" name="_service" size="392" />
+<directory name="ffmpeg" rev="6" vrev="6" srcmd5="99962fe535514fe6c2df2a9bccd76f53">
+  <serviceinfo code="succeeded" xsrcmd5="b3a763c9fcfb935db6f01134917c1b78" />
+  <entry name="_service" md5="cea222af73e02645a4432f9534fa1063" size="392" mtime="1679970486" />
 </directory>

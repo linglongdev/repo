@@ -1,4 +1,4 @@
-<directory name="kcrash" rev="1" srcmd5="8ad7bc2ed9d526bdb3362c0889df892e" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="0a1fe4428a59a211b0bc5a2ddbf2e4a5" />
-  <entry md5="74e96e387ffb813d061f69eb13744fd7" mtime="1679970756" name="_service" size="392" />
+<directory name="kcrash" rev="3" vrev="3" srcmd5="8525e7d4c0cc8a8b1c8f54f535b90a00">
+  <serviceinfo code="succeeded" xsrcmd5="936f2293b5c94bfcd9174ab1a96a843d" />
+  <entry name="_service" md5="74e96e387ffb813d061f69eb13744fd7" size="392" mtime="1679970756" />
 </directory>

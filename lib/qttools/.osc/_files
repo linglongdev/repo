@@ -1,4 +1,4 @@
-<directory name="qttools" rev="2" srcmd5="1b4131bbe5c3c44d3ad5762931e9feb8" vrev="2">
-  <serviceinfo code="succeeded" xsrcmd5="b4be4290ecb79dcb5cbd50c4e816f65f" />
-  <entry md5="1fad85b2faa90dc117e18ba97a531aaa" mtime="1679983596" name="_service" size="393" />
+<directory name="qttools" rev="4" vrev="4" srcmd5="4eca6beab4abc2725af768d2c94308ba">
+  <serviceinfo code="succeeded" xsrcmd5="d207e424077cee0e80523aa99761151a" />
+  <entry name="_service" md5="1fad85b2faa90dc117e18ba97a531aaa" size="393" mtime="1679983596" />
 </directory>

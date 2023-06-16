@@ -1,6 +1,4 @@
-<directory name="dtkcommon" rev="1" srcmd5="3914b75c33fba144e94e649afc87a94c" vrev="1">
-  <serviceinfo code="failed" xsrcmd5="1fc4007000f4bd8aba2f8cc2d3bef6c5">
-    <error>service error: '</error>
-  </serviceinfo>
-  <entry md5="31e8f2b161f7a83fca0d55710ca40e49" mtime="1679986478" name="_service" size="395" />
+<directory name="dtkcommon" rev="8" vrev="8" srcmd5="0aa46b15cede1e6cf3b6cf9f878896a3">
+  <serviceinfo code="succeeded" xsrcmd5="fc06b55ecde1ec7f9ef440b5353c27ef" />
+  <entry name="_service" md5="6328ed4069aa6f3f3d398b207cd8b288" size="395" mtime="1680012235" />
 </directory>

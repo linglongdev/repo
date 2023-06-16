@@ -1,4 +1,4 @@
-<directory name="qtserialport" rev="2" srcmd5="3e48ff014e14e64a137b6dc6ed523959" vrev="2">
-  <serviceinfo code="succeeded" xsrcmd5="c34766ca478d669e2256eb969e9beea3" />
-  <entry md5="59774e360eec5a7607ca30a1380a1f59" mtime="1679983559" name="_service" size="398" />
+<directory name="qtserialport" rev="4" vrev="4" srcmd5="52810f98f8c723ed66ca3fce78d8006a">
+  <serviceinfo code="succeeded" xsrcmd5="a431ba37060f87297a5607b7f170d8be" />
+  <entry name="_service" md5="59774e360eec5a7607ca30a1380a1f59" size="398" mtime="1679983559" />
 </directory>

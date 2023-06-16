@@ -1,4 +1,4 @@
-<directory name="libxtst" rev="1" srcmd5="61c7f1352350c0cce86bc5ce6ec26822" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="98958c0daa7583ef306517f5e97b9608" />
-  <entry md5="ac096626abe6bc8a5242007bbfb92c92" mtime="1679971200" name="_service" size="393" />
+<directory name="libxtst" rev="4" vrev="4" srcmd5="f8dcf9520b3cd1e6a8b8cf4b9d498f5a">
+  <serviceinfo code="succeeded" xsrcmd5="339171bce152aee20c4901db6b9db01d" />
+  <entry name="_service" md5="ac096626abe6bc8a5242007bbfb92c92" size="393" mtime="1679971200" />
 </directory>

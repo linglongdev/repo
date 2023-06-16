@@ -1,4 +1,4 @@
-<directory name="portaudio19" rev="1" srcmd5="bbc79467c21da8de9e5e9ef9fe0e4595" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="f09c0029f407790a75d48d1a089980e9" />
-  <entry md5="96fd1abc2fa290421394b6b77aaa9b7a" mtime="1679971370" name="_service" size="397" />
+<directory name="portaudio19" rev="6" vrev="6" srcmd5="6acc101b28dd17108593e369b25460a0">
+  <serviceinfo code="succeeded" xsrcmd5="defad7ef5cdb68c785ec2445d63af796" />
+  <entry name="_service" md5="96fd1abc2fa290421394b6b77aaa9b7a" size="397" mtime="1679971370" />
 </directory>

@@ -1,4 +1,4 @@
-<directory name="re2" rev="1" srcmd5="a637c47b3b6aef6e57f3b8ae21756ff7" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="62176ae6799ef39a4f360ae4f94ca2cf" />
-  <entry md5="9b805b137ef58fc798dc09ef5b90f584" mtime="1679971421" name="_service" size="389" />
+<directory name="re2" rev="6" vrev="6" srcmd5="112eed2e6723817b36515a6a2e7c5abe">
+  <serviceinfo code="succeeded" xsrcmd5="9648af3438d317d2aad64e73519c2eb6" />
+  <entry name="_service" md5="9b805b137ef58fc798dc09ef5b90f584" size="389" mtime="1679971421" />
 </directory>

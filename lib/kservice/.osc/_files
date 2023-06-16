@@ -1,4 +1,4 @@
-<directory name="kservice" rev="1" srcmd5="545fd65c4cd067dc3cd72fb6eab98cd9" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="9baa616e817f7a02f47e127670f4b765" />
-  <entry md5="68bcd926f443080030b6c1d5eb4cacfe" mtime="1679970820" name="_service" size="394" />
+<directory name="kservice" rev="3" vrev="3" srcmd5="a7fba0f8c6c937716a1ebb4ced9f0d59">
+  <serviceinfo code="succeeded" xsrcmd5="2eb8cd6745572295c4bac115e9a39c76" />
+  <entry name="_service" md5="68bcd926f443080030b6c1d5eb4cacfe" size="394" mtime="1679970820" />
 </directory>

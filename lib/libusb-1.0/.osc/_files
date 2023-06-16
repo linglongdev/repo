@@ -1,4 +1,4 @@
-<directory name="libusb-1.0" rev="1" srcmd5="65998d1592ce5b451a99c934cf6195af" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="837f6e6ca0262c5db23c6f29f71285f0" />
-  <entry md5="a8c6578f83a2aecbafdf79354d38a8ce" mtime="1679971097" name="_service" size="396" />
+<directory name="libusb-1.0" rev="6" vrev="6" srcmd5="000aa6d2425d46008767b984a1a88fcd">
+  <serviceinfo code="succeeded" xsrcmd5="416380916b6e3f9fe83668ed140e385c" />
+  <entry name="_service" md5="a8c6578f83a2aecbafdf79354d38a8ce" size="396" mtime="1679971097" />
 </directory>

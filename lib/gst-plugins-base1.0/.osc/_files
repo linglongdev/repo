@@ -1,4 +1,4 @@
-<directory name="gst-plugins-base1.0" rev="1" srcmd5="383a3d7934df5e1158d98034af7f6074" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="67fe30db738952c62c32375bf804e5c6" />
-  <entry md5="8749560011593ebfe0ed62800ca6c2a1" mtime="1679970578" name="_service" size="405" />
+<directory name="gst-plugins-base1.0" rev="3" vrev="3" srcmd5="375ebd92091d81602be83795f30c84c6">
+  <serviceinfo code="succeeded" xsrcmd5="ce324d831d090457c9214c97980fd6a6" />
+  <entry name="_service" md5="8749560011593ebfe0ed62800ca6c2a1" size="405" mtime="1679970578" />
 </directory>

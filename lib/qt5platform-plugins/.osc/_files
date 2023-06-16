@@ -1,6 +1,4 @@
-<directory name="qt5platform-plugins" rev="1" srcmd5="3764ac7fbd7996ad48f8013656a72e62" vrev="1">
-  <serviceinfo code="failed" xsrcmd5="c3cdaee6a7e1255efe0c0663e0cf8a31">
-    <error>service error: '</error>
-  </serviceinfo>
-  <entry md5="f92286dbd315d6c5830332fb63df725a" mtime="1679986585" name="_service" size="405" />
+<directory name="qt5platform-plugins" rev="6" vrev="6" srcmd5="d8f715d048f77d4bfd81d1b81fc865f9">
+  <serviceinfo code="succeeded" xsrcmd5="52b973305fcd316194b4099456a5a6d3" />
+  <entry name="_service" md5="d488bf4f173a9c38243e00b4a2676451" size="405" mtime="1680015214" />
 </directory>

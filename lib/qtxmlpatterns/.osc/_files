@@ -1,4 +1,4 @@
-<directory name="qtxmlpatterns" rev="2" srcmd5="f8f5334304323e2b116be09cfb293dcc" vrev="2">
-  <serviceinfo code="succeeded" xsrcmd5="156ccf7a5af334d9708ae9c63adc9525" />
-  <entry md5="9f90ef7472c790d312e6640a5fe66fa6" mtime="1679983957" name="_service" size="399" />
+<directory name="qtxmlpatterns" rev="4" vrev="4" srcmd5="afeae66d13fcb21bd4b456ecb3a50baf">
+  <serviceinfo code="succeeded" xsrcmd5="b56b95e5567bdced7491441b53bb2885" />
+  <entry name="_service" md5="9f90ef7472c790d312e6640a5fe66fa6" size="399" mtime="1679983957" />
 </directory>

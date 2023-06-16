@@ -1,4 +1,4 @@
-<directory name="qtmultimedia" rev="2" srcmd5="d7baf57f1d8cc5066ac95ae28c8d14e2" vrev="2">
-  <serviceinfo code="succeeded" xsrcmd5="6493a8d557011cad7dbc174d5066e814" />
-  <entry md5="09b80d46ce3ec812609da488b83dbb3b" mtime="1679983479" name="_service" size="398" />
+<directory name="qtmultimedia" rev="4" vrev="4" srcmd5="3268170c2966cf8fbe2663797ed5261d">
+  <serviceinfo code="succeeded" xsrcmd5="d6a5f3be88d832bdcb59ac68e04222cf" />
+  <entry name="_service" md5="09b80d46ce3ec812609da488b83dbb3b" size="398" mtime="1679983479" />
 </directory>

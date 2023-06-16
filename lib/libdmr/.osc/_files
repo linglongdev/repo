@@ -1,6 +1,6 @@
-<directory name="libdmr" rev="1" srcmd5="6afb3b0f988494ece731bf96f0750bea" vrev="1">
-  <serviceinfo code="failed" xsrcmd5="bb94f0ab481d538116077ff2654d2bc3">
+<directory name="libdmr" rev="3" vrev="3" srcmd5="ca4eff2d2f4b98bfd13f7324b922720a">
+  <serviceinfo code="failed" xsrcmd5="a1ac07b8dee9c4efaf5150efaadc769e">
     <error>service error: '</error>
   </serviceinfo>
-  <entry md5="868a1ecdb744eff79887f1192852bbd2" mtime="1679970948" name="_service" size="392" />
+  <entry name="_service" md5="868a1ecdb744eff79887f1192852bbd2" size="392" mtime="1679970948" />
 </directory>

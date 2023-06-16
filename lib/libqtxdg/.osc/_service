@@ -1,6 +1,6 @@
 <services>
   <service name="obs_scm">
-    <param name="url">https://github.com/linglongdev/qtxdg.git</param>
+    <param name="url">https://github.com/linglongdev/libqtxdg.git</param>
     <param name="revision">master</param>
     <param name="scm">git</param>
     <param name="exclude">.git</param>

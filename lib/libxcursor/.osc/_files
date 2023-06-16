@@ -1,4 +1,4 @@
-<directory name="libxcursor" rev="1" srcmd5="847402687853ce88aa83f3fbe5f809b8" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="0c99048c694458e15419b9673e559ddf" />
-  <entry md5="13680c79c4fdf2ee60cfc42c71eafc28" mtime="1679971156" name="_service" size="396" />
+<directory name="libxcursor" rev="6" vrev="6" srcmd5="97f8e81eea6b8395cba947be05c35d1f">
+  <serviceinfo code="succeeded" xsrcmd5="ee6c2c852c36997bd337bc3971a9c6e0" />
+  <entry name="_service" md5="13680c79c4fdf2ee60cfc42c71eafc28" size="396" mtime="1679971156" />
 </directory>

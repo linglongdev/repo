@@ -1,4 +1,4 @@
-<directory name="qtconnectivity" rev="2" srcmd5="84af0ea871e20aa445713e9f73ee8876" vrev="2">
-  <serviceinfo code="succeeded" xsrcmd5="dae3146c9739391bad70258614c944c0" />
-  <entry md5="c409fd926243dbd9aa0874c06fd271d4" mtime="1679983382" name="_service" size="400" />
+<directory name="qtconnectivity" rev="4" vrev="4" srcmd5="abd3e9de3c895c2430320628705d3cb1">
+  <serviceinfo code="succeeded" xsrcmd5="168c0b3ce0f3aae8f262d2594f82725a" />
+  <entry name="_service" md5="c409fd926243dbd9aa0874c06fd271d4" size="400" mtime="1679983382" />
 </directory>

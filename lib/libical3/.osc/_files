@@ -1,4 +1,4 @@
-<directory name="libical3" rev="2" srcmd5="886c6d2280b4b4909c5f33acc3dbe622" vrev="2">
-  <serviceinfo code="succeeded" xsrcmd5="89988d74080417efd7d839ca78dfcec7" />
-  <entry md5="9c91576962a79f08e2fe48a7d06bac29" mtime="1679971021" name="_service" size="394" />
+<directory name="libical3" rev="7" vrev="7" srcmd5="d6b51c185b93068b022efa09daf8bb25">
+  <serviceinfo code="succeeded" xsrcmd5="24393cb867f1271aa78201eb177dbf60" />
+  <entry name="_service" md5="9c91576962a79f08e2fe48a7d06bac29" size="394" mtime="1679971021" />
 </directory>

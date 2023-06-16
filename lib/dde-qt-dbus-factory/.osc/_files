@@ -1,6 +1,4 @@
-<directory name="dde-qt-dbus-factory" rev="1" srcmd5="ceefd3ac3833bfa69e62930d3f7359e5" vrev="1">
-  <serviceinfo code="failed" xsrcmd5="bb67554d493923f1671b57c5267b8062">
-    <error>service error: '</error>
-  </serviceinfo>
-  <entry md5="a37d704068d4a81841815501704e6857" mtime="1679970437" name="_service" size="405" />
+<directory name="dde-qt-dbus-factory" rev="4" vrev="4" srcmd5="3718e049537a19f4ec70ff77c5a60702">
+  <serviceinfo code="succeeded" xsrcmd5="95601a539edbc4e1feb419ff652b032c" />
+  <entry name="_service" md5="a37d704068d4a81841815501704e6857" size="405" mtime="1679970437" />
 </directory>

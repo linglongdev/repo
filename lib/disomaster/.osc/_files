@@ -1,6 +1,6 @@
-<directory name="disomaster" rev="1" srcmd5="a2635abbc6ca5d26f11b8e98a06337b5" vrev="1">
-  <serviceinfo code="failed" xsrcmd5="82483a381c7183090eb534f693066f5e">
+<directory name="disomaster" rev="3" vrev="3" srcmd5="8b4ee004e39a928383dad0a8d5693483">
+  <serviceinfo code="failed" xsrcmd5="035a59f1cc41e97d7ae915092b574892">
     <error>service error: '</error>
   </serviceinfo>
-  <entry md5="b2c836542178080dde6911ecd625768f" mtime="1679970446" name="_service" size="396" />
+  <entry name="_service" md5="b2c836542178080dde6911ecd625768f" size="396" mtime="1679970446" />
 </directory>

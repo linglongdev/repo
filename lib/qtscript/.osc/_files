@@ -1,4 +1,4 @@
-<directory name="qtscript" rev="2" srcmd5="47350ca1a191ba151555bcd34146b6fd" vrev="2">
-  <serviceinfo code="succeeded" xsrcmd5="c2cffdf180ba21037c596e568e354f3b" />
-  <entry md5="674ae9ceb65249bd280ea299f5ec925d" mtime="1679983533" name="_service" size="394" />
+<directory name="qtscript" rev="4" vrev="4" srcmd5="44951b2807f35e5cbf81c9345585bcb7">
+  <serviceinfo code="succeeded" xsrcmd5="6df7b1171884d805859385879c69481d" />
+  <entry name="_service" md5="674ae9ceb65249bd280ea299f5ec925d" size="394" mtime="1679983533" />
 </directory>

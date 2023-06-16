@@ -1,4 +1,4 @@
-<directory name="qtnetworkauth" rev="2" srcmd5="061324af8b3d616f30f4e4f34d5ebb52" vrev="2">
-  <serviceinfo code="succeeded" xsrcmd5="9b48022f1407899c857502f57fb5febb" />
-  <entry md5="514a8e421f3b33c19a6f756eebd4d6ab" mtime="1679983493" name="_service" size="399" />
+<directory name="qtnetworkauth" rev="4" vrev="4" srcmd5="b600953b5579b0de00b1aa9ccce5ffcd">
+  <serviceinfo code="succeeded" xsrcmd5="18ee0cd458a091f41b3e0d8cd877845e" />
+  <entry name="_service" md5="514a8e421f3b33c19a6f756eebd4d6ab" size="399" mtime="1679983493" />
 </directory>

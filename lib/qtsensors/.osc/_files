@@ -1,4 +1,4 @@
-<directory name="qtsensors" rev="2" srcmd5="ffda764b4d880dcf38a1aef1e608eec8" vrev="2">
-  <serviceinfo code="succeeded" xsrcmd5="96bce0240307699c8d8f2a8a2bc92bb5" />
-  <entry md5="877bdf37c0719184cad065a3b696ead1" mtime="1679983547" name="_service" size="395" />
+<directory name="qtsensors" rev="4" vrev="4" srcmd5="54dcacd65db9fce71a7fb750539f3a61">
+  <serviceinfo code="succeeded" xsrcmd5="d03e366ddf9729d5d3914364c8b30a6b" />
+  <entry name="_service" md5="877bdf37c0719184cad065a3b696ead1" size="395" mtime="1679983547" />
 </directory>

@@ -1,4 +1,4 @@
-<directory name="openblas" rev="1" srcmd5="2521a57fa42f489d014abaaaecd1df21" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="2015d91e198b62241aaebdbdf9b05da6" />
-  <entry md5="c9a34f15f122a477a064f4d2cf82f3ea" mtime="1679971279" name="_service" size="394" />
+<directory name="openblas" rev="3" vrev="3" srcmd5="90ee00dadd0b609fde21da02c9e2863c">
+  <serviceinfo code="succeeded" xsrcmd5="888f118b468b055184cab90168db5ce8" />
+  <entry name="_service" md5="c9a34f15f122a477a064f4d2cf82f3ea" size="394" mtime="1679971279" />
 </directory>

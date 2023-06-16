@@ -1,4 +1,4 @@
-<directory name="v4l-utils" rev="1" srcmd5="2ccb719bf3ec4f2e7fd03fba28bda4d6" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="b41af4f335f2725016818874cdec6d77" />
-  <entry md5="1a1533fe4d7b11bd0bdd4adc4631b0d6" mtime="1679971497" name="_service" size="395" />
+<directory name="v4l-utils" rev="3" vrev="3" srcmd5="e8f7f92301f9aec18cbf1507e478d64a">
+  <serviceinfo code="succeeded" xsrcmd5="334e7e4ad8cfe1d2ea66e7b74ebe3d89" />
+  <entry name="_service" md5="1a1533fe4d7b11bd0bdd4adc4631b0d6" size="395" mtime="1679971497" />
 </directory>

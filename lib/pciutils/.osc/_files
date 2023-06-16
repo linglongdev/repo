@@ -1,4 +1,4 @@
-<directory name="pciutils" rev="3" srcmd5="2195d5704272ea150338cc682b7bef74" vrev="3">
-  <serviceinfo code="succeeded" xsrcmd5="2fae05f77faf1da202cbaafa492ab093" />
-  <entry md5="5322390bb07fcae08962691d01cea521" mtime="1679971341" name="_service" size="394" />
+<directory name="pciutils" rev="5" vrev="5" srcmd5="29b259de2f55bbdc2aedd2c2a6990bea">
+  <serviceinfo code="succeeded" xsrcmd5="5ac2ba7f1562587cd168603d23aedff2" />
+  <entry name="_service" md5="5322390bb07fcae08962691d01cea521" size="394" mtime="1679971341" />
 </directory>

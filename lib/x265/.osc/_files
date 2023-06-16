@@ -1,4 +1,4 @@
-<directory name="x265" rev="1" srcmd5="f148e814c381f09636428650a7ea6d32" vrev="1">
-  <serviceinfo code="succeeded" xsrcmd5="55a3ca47855db1a9448bb7b99c4248aa" />
-  <entry md5="2e19393046ba77839823ac73677446f6" mtime="1679972114" name="_service" size="390" />
+<directory name="x265" rev="5" vrev="5" srcmd5="d51f6f624f6836f162a156bce719ceeb">
+  <serviceinfo code="succeeded" xsrcmd5="b658f451d1e25240a73fd02be8c511fb" />
+  <entry name="_service" md5="2e19393046ba77839823ac73677446f6" size="390" mtime="1679972114" />
 </directory>
