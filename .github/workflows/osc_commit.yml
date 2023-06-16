@@ -1,0 +1,23 @@
+name: osc commit
+on:
+  push:
+    branches: [ "master" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: init config
+        env:
+            OSCRC: ${{secrets.OSCRC}}
+        run: |
+          mkdir -p ~/.config/osc/
+          echo "$OSCRC" > ~/.config/osc/oscrc
+      - uses: actions/checkout@v3
+      - name: update lib
+        run: |
+          cd lib
+          osc up
+          osc add */*
+          osc commit -m "auto commit"
