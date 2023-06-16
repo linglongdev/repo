@@ -12,6 +12,7 @@ for pkg in `ls`; do
   else
     osc mkpac $pkg
     cd $pkg
+    osc add *
     osc commit -m "auto commit"
     cd ..
   fi
